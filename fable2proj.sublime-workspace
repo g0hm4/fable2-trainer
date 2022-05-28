@@ -1,0 +1,231 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"D",
+				"dictionary_category_names"
+			],
+			[
+				"dat",
+				"datetime"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/banny/Documents/fable modding/fable2-trainer",
+		"/C/Users/banny/Documents/fable modding/fable2-trainer/templates"
+	],
+	"file_history":
+	[
+		"/C/Users/banny/Documents/fable modding/Fable 2/data/scripts/RuntimeCode.lua",
+		"/C/Users/banny/Documents/fable modding/Fable 2/data/scripts/MultipageMenu.lua",
+		"/C/Users/banny/Documents/fable modding/Fable 2/data/scripts/CodeLoader.lua",
+		"/C/Users/banny/Documents/fable modding/fable2-trainer/fable_lists.py",
+		"/C/Users/banny/Documents/fable modding/fable2-trainer/fable_dicts.py",
+		"/C/Users/banny/Documents/fable modding/fable2-trainer/templates/index.html",
+		"/C/Users/banny/Downloads/mute-current-application-1.0/VA.ahk",
+		"/C/Users/banny/Downloads/mute-current-application-1.0/mute_current_application.ahk",
+		"/C/Users/banny/Documents/fable modding/fable2-trainer/app.py",
+		"/C/Users/banny/Documents/fable modding/fable2-trainer/debug_menu.txt",
+		"/C/Users/banny/Documents/fable modding/fable2-trainer/tmp.py",
+		"/C/Users/banny/Documents/fable modding/fable2-trainer/debugmenu.txt",
+		"/C/Users/banny/Documents/fable modding/RuntimeCode.lua - Shortcut.lnk"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 116.0,
+		"where_history":
+		[
+			"fable_dicts.py",
+			"tmp.py",
+			"test.py",
+			"debug_menu.txt",
+			"test.py",
+			"debug_menu.txt",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\\\",
+			":$",
+			"'$",
+			", ",
+			" = {",
+			"lucien",
+			"]\",",
+			"}\",",
+			"/\\ \\\"Gameflow\\:QuestStatus\\(ScriptEnum\\.Debug/",
+			"/\\\"Gameflow\\:QuestStatus\\(ScriptEnum\\.Debug'.*$/",
+			"/^\\\"Gameflow\\:QuestStatus\\(ScriptEnum\\.Debug'.*$/",
+			", /^\\\"Gameflow\\:QuestStatus\\(ScriptEnum\\.Debug'.*$/",
+			", /^\"Gameflow:QuestStatus(ScriptEnum.Debug'.*$",
+			", \"Gameflow:QuestStatus(ScriptEnum.Debug.*, 1)\"",
+			":\"",
+			"\t",
+			":$",
+			":",
+			"\",",
+			")\","
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\\\\\\\",
+			",",
+			"',",
+			"\\n",
+			"",
+			"]\":",
+			"}\":",
+			": \"",
+			"",
+			",",
+			"\":",
+			")\":"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "fable2proj.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 295.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
