@@ -1,1 +1,7 @@
-venv/
+fable2proj.sublime-project
+/venv
+__pycache__/
+debug_menu.txt
+fable2proj.sublime-workspace
+tmp.py
+scratch.py

@@ -1,3 +1,6 @@
+import os
+from os.path import join, dirname
+from dotenv import load_dotenv
 from flask import Flask, render_template, request, flash
 from flask_wtf import FlaskForm
 from wtforms import StringField, SubmitField, SelectField
@@ -9,7 +12,13 @@ import fable_dicts
 
 # Create an instance of Flask
 app = Flask(__name__)
-app.config['SECRET_KEY'] =  'secret'
+app.config['SECRET_KEY'] =  'not important but i cant be arsed disabling csrf tokens properly'
+
+# set up environment
+dotenv_path = join(dirname(__file__), '.env')
+load_dotenv(dotenv_path)
+
+runtimelua_path = os.environ.get("RUNTIMELUAPATH")
 
 commandlist = []
 
@@ -27,7 +36,7 @@ def ChangeRuntimeCode(action):
 
 	i = random.randint(0,1000)
 
-	debugfile = open('C:/Users/banny/Documents/fable modding text/Fable 2/data/scripts/RuntimeCode.lua', 'w+')
+	debugfile = open(runtimelua_path, 'w+')
 	content = '''myTestTable.newChecksum = {0}
 function myTestTable.CodeToRun()
 {1}
